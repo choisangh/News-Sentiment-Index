@@ -12,7 +12,7 @@ News Index Using News Big Data and KR-FinBert-SC Sensibility Classification Mode
 * KR-FinBert-SC
 
 # Principle
-* Positive and negative classification in economic using deep learning sentiment classification model
+* Positive and negative classification in economic news using deep learning sentiment classification model
 * News sentiment index using Business Survey Index(BSI) calculation formula
 * Seasonal Adjustment with ARIMA x13
 * Calculation of cyclic variation using Double HP
